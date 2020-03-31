@@ -35,5 +35,17 @@ git clone https://github.com/MuikaUmino/ArmaBearJP-hp.git
 - 適当なブランチを作る
 - おわり
 
+## その他
+
+- Issuesって何
+  - 掲示板みたいなもの
+  
+- pullできんが
+  - masterにcommit pullしてみてください。それかエラーが出てるか確認してください。  
+  それでも反映されてないなら多分フォークしてるか何か。悩みはできるだけ一緒に回答するので困ったらdiscoの全体とかにチャット飛ばしてください
+  
+- gitわからん
+  - 私もわからん。
+
 ## 連絡先
 いつものDiscordかTwitterまで
